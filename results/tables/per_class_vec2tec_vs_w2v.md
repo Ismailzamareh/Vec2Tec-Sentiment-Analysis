@@ -1,0 +1,34 @@
+# Per-class F1: Vec2Tec(LR) vs Word2Vec(LR)
+
+Single-seed snapshot (last evaluate.py run).
+
+
+## ASTD
+
+| dataset   | class    |   support |   f1_word2vec_lr |   f1_vec2tec_lr |   delta_f1_pp |
+|:----------|:---------|----------:|-----------------:|----------------:|--------------:|
+| astd      | negative |       336 |           0.7289 |          0.75   |        2.1084 |
+| astd      | positive |       158 |           0.4444 |          0.4684 |        2.391  |
+
+## ASTD4
+
+| dataset   | class     |   support |   f1_word2vec_lr |   f1_vec2tec_lr |   delta_f1_pp |
+|:----------|:----------|----------:|-----------------:|----------------:|--------------:|
+| astd4     | negative  |       159 |           0.1068 |          0.1148 |        0.8036 |
+| astd4     | neutral   |       159 |           0.4182 |          0.4151 |       -0.3125 |
+| astd4     | objective |       159 |           0.3891 |          0.4027 |        1.3652 |
+| astd4     | positive  |       159 |           0.2897 |          0.314  |        2.4338 |
+
+## IMDB
+
+| dataset   | class    |   support |   f1_word2vec_lr |   f1_vec2tec_lr |   delta_f1_pp |
+|:----------|:---------|----------:|-----------------:|----------------:|--------------:|
+| imdb      | negative |     12500 |           0.8589 |          0.8694 |        1.0557 |
+| imdb      | positive |     12500 |           0.8576 |          0.8692 |        1.1609 |
+
+## LABR
+
+| dataset   | class    |   support |   f1_word2vec_lr |   f1_vec2tec_lr |   delta_f1_pp |
+|:----------|:---------|----------:|-----------------:|----------------:|--------------:|
+| labr      | negative |      1590 |           0.7768 |          0.7893 |        1.2528 |
+| labr      | positive |      1596 |           0.7788 |          0.7895 |        1.0707 |

@@ -1,0 +1,5 @@
+"row","pred_negative","pred_positive","pred_neutral","pred_objective"
+"true_negative",65,20,53,21
+"true_positive",18,83,31,27
+"true_neutral",35,23,70,31
+"true_objective",27,35,23,74

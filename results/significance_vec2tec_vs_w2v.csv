@@ -1,0 +1,7 @@
+"dataset","model_a","model_b","n_only_a_correct","n_only_b_correct","n_both_correct","n_both_wrong","test","statistic","p_value","significant_5pct"
+"imdb","vec2tec_lr","word2vec_lr",721,444,21012,2823,"chi2_with_continuity",65.387124,0.0,True
+"imdb","vec2tec_lr","tfidf_lr",696,1523,21037,1744,"chi2_with_continuity",307.470032,0.0,True
+"labr","vec2tec_lr","word2vec_lr",89,52,2426,619,"chi2_with_continuity",9.191489,0.002431,True
+"labr","vec2tec_lr","tfidf_lr",145,286,2370,385,"chi2_with_continuity",45.475638,0.0,True
+"astd","vec2tec_lr","word2vec_lr",15,3,311,165,"exact",3.0,0.007538,True
+"astd","vec2tec_lr","tfidf_lr",43,103,283,65,"chi2_with_continuity",23.842466,1e-06,True

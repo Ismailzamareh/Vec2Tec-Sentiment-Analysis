@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or build on this work, please cite the paper below."
+title: "Vec2Tec: A Semantically Enhanced Word2Vec Framework for Adaptive Sentiment Intelligence"
+authors:
+  - family-names: "Zama'reh"
+    given-names: "Ismail"
+  - family-names: "Turman"
+    given-names: "Jihad"
+  - family-names: "Sawad"
+    given-names: "Mohammad"
+date-released: 2026-05-25
+type: software
+repository-code: "https://github.com/<your-github-username>/vec2tec"
+preferred-citation:
+  type: article
+  title: "Vec2Tec: A Semantically Enhanced Word2Vec Framework for Adaptive Sentiment Intelligence"
+  authors:
+    - family-names: "Zama'reh"
+      given-names: "Ismail"
+    - family-names: "Turman"
+      given-names: "Jihad"
+    - family-names: "Sawad"
+      given-names: "Mohammad"
+  year: 2026

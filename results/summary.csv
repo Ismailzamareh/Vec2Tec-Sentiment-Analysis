@@ -1,0 +1,4 @@
+"dataset","best_model","accuracy","f1_macro","f1_weighted"
+"imdb","tfidf_lr",0.9024,0.9024,0.9024
+"labr","tfidf_lr",0.8336,0.8336,0.8336
+"astd","tfidf_lr",0.7814,0.7444,0.7794

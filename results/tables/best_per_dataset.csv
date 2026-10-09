@@ -1,0 +1,5 @@
+"dataset","best_model","best_family","best_f1_macro_mean","best_f1_macro_std","best_accuracy_mean","best_w2v_based_model","best_w2v_based_f1_macro_mean","best_w2v_based_f1_macro_std","gap_best_minus_w2v_pp"
+"astd","tfidf_lr","TF-IDF",0.741428,0.00485,0.777328,"vec2tec_svm",0.623701,0.009721,11.7727
+"astd4","tfidf_lr","TF-IDF",0.472772,0.0,0.471698,"vec2tec_svm",0.351904,0.014766,12.0868
+"imdb","tfidf_lr","TF-IDF",0.9024,0.0,0.9024,"vec2tec_svm",0.875907,0.000751,2.6493
+"labr","tfidf_lr","TF-IDF",0.833643,0.0,0.833647,"vec2tec_lr",0.788972,0.000479,4.4671

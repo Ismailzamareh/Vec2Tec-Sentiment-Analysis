@@ -1,0 +1,10 @@
+# Vec2Tec vs Word2Vec
+
+| Dataset | Metric | Word2Vec (best) | Vec2Tec (best) | Δ (V2T − W2V) |
+|:--------|:-------|:---------------:|:--------------:|:-------------:|
+| IMDB | Accuracy | 0.8607 ± 0.0006  (Word2Vec + SVM) | 0.8759 ± 0.0008  (Vec2Tec + SVM) | **+1.52 pp** |
+| IMDB | F1-macro | 0.8607 ± 0.0006  (Word2Vec + SVM) | 0.8759 ± 0.0008  (Vec2Tec + SVM) | **+1.52 pp** |
+| LABR | Accuracy | 0.7750 ± 0.0063  (Word2Vec + LR) | 0.7890 ± 0.0005  (Vec2Tec + LR) | **+1.40 pp** |
+| LABR | F1-macro | 0.7750 ± 0.0063  (Word2Vec + LR) | 0.7890 ± 0.0005  (Vec2Tec + LR) | **+1.40 pp** |
+| ASTD | Accuracy | 0.6707 ± 0.0065  (Word2Vec + SVM) | 0.6781 ± 0.0020  (Vec2Tec + SVM) | **+0.74 pp** |
+| ASTD | F1-macro | 0.6172 ± 0.0139  (Word2Vec + SVM) | 0.6237 ± 0.0097  (Vec2Tec + SVM) | **+0.65 pp** |

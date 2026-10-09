@@ -1,0 +1,31 @@
+# Raw data (not redistributed, licensing restrictions)
+data/raw/
+data/processed/
+
+# Trained models / embeddings (large binaries, regenerate via src/run_all.py)
+models/*.pkl
+models/*.model
+models/*.model.*
+models/*.npy
+
+# Large cached prediction dumps
+results/_preds_*.pkl
+
+# Local backups / scratch snapshots
+_backup_*/
+
+# Paper manuscript is not published in this repo
+paper/
+*.pdf
+*.docx
+*.rar
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

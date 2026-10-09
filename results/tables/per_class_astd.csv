@@ -1,0 +1,3 @@
+"class","support","tfidf_lr","tfidf_svm","vec2tec_lr","vec2tec_svm","word2vec_lr","word2vec_svm"
+"negative",336,0.8416,0.8353,0.75,0.7576,0.7289,0.7473
+"positive",158,0.6471,0.6364,0.4684,0.5122,0.4444,0.5075

@@ -1,0 +1,7 @@
+"comparison","dataset","model_a","model_b","mean_f1_a","mean_f1_b","mean_diff_f1","std_diff_f1","t_stat","t_p","wilcoxon_stat","wilcoxon_p","bootstrap_obs_diff","bootstrap_ci_lo","bootstrap_ci_hi","bootstrap_p","bootstrap_n_test","significant_5pct"
+"vec2tec_vs_w2v","imdb","vec2tec_lr","word2vec_lr",0.869227,0.858611,0.010616,0.000443,41.517453,0.00058,0.0,0.25,0.011083,0.008478,0.013927,0.0,25000,True
+"vec2tec_vs_w2v","labr","vec2tec_lr","word2vec_lr",0.788972,0.774951,0.014021,0.006465,3.756614,0.064121,0.0,0.25,0.011618,0.004387,0.019162,0.0,3186,True
+"vec2tec_vs_w2v","astd","vec2tec_lr","word2vec_lr",0.605995,0.598784,0.007212,0.013239,0.943484,0.445025,3.0,1.0,0.022497,0.002782,0.043358,0.027,494,True
+"tfidf_vs_vec2tec","imdb","tfidf_lr","vec2tec_lr",0.9024,0.869227,0.033173,0.000943,60.900689,0.00027,0.0,0.25,0.03308,0.02928,0.036801,0.0,25000,True
+"tfidf_vs_vec2tec","labr","tfidf_lr","vec2tec_lr",0.833643,0.788972,0.044671,0.000479,161.386766,3.8e-05,0.0,0.25,0.044252,0.032013,0.05681,0.0,3186,True
+"tfidf_vs_vec2tec","astd","tfidf_lr","vec2tec_lr",0.741428,0.605995,0.135433,0.013762,17.045435,0.003424,0.0,0.25,0.135173,0.080308,0.188691,0.0,494,True

@@ -1,0 +1,5 @@
+"dataset","hardest_class","hardest_class_mean_f1","easiest_class","easiest_class_mean_f1"
+"astd","positive",0.536,"negative",0.7768
+"astd4","negative",0.2373,"objective",0.4399
+"imdb","positive",0.8765,"negative",0.8769
+"labr","negative",0.7965,"positive",0.7974
