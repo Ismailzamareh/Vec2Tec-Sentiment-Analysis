@@ -1,12 +1,5 @@
 # Raw data (not redistributed, licensing restrictions)
 data/raw/
-data/processed/
-
-# Trained models / embeddings (large binaries, regenerate via src/run_all.py)
-models/*.pkl
-models/*.model
-models/*.model.*
-models/*.npy
 
 # Large cached prediction dumps
 results/_preds_*.pkl
