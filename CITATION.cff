@@ -10,7 +10,7 @@ authors:
     given-names: "Mohammad"
 date-released: 2026-05-25
 type: software
-repository-code: "https://github.com/<your-github-username>/vec2tec"
+repository-code: "https://github.com/Ismailzamareh/Vec2Tec-Sentiment-Analysis"
 preferred-citation:
   type: article
   title: "Vec2Tec: A Semantically Enhanced Word2Vec Framework for Adaptive Sentiment Intelligence"
